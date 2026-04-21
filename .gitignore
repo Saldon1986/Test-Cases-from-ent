@@ -1,0 +1,7 @@
+# Secrets and keys
+.KEYS_/
+.env
+.env.*
+!.env.example
+.DS_Store/
+.DS_Store
